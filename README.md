@@ -15,9 +15,6 @@ I'm currently working on some personal projects for my company.<br>I'm a student
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=H0LF&icon=0&color=12)](https://visitcount.itsvg.in)
 
